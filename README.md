@@ -1,10 +1,10 @@
-﻿# Leetcode 150
+﻿# Blind 75
 
 Order to complete problems below
 - Arrays & Hashing
 - Stack
 - Two Pointers
-- Linked list
+- Linked List
 - Sliding Window
 - Binary Search
 - Trees
