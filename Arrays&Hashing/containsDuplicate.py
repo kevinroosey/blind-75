@@ -30,7 +30,7 @@ class Solution(object):
     '''
     Make use of the fact that dictionaries cannot contain duplicate keys.
     Each value of nums gets assigned a key. If, at the end of the traversal, 
-    the hashmap AND the nums list are the same length there are no duplicates, and vice versa.
+    the hashmap AND the nums list are the same length, there are no duplicates.
     '''
     def containsDuplicate(self, nums):
         hashmap = {}
