@@ -25,12 +25,10 @@ Output: [["a"]]
 class Solution:
     '''
     First, create a map. It will store our data as such:
-    {
-        "sorted(key)": ["key1", "key2", .."keyN"],
-    }
+    {"sorted(key)": ["key1", "key2", .."keyN"]}
     To populate this anagrams map, iterate through the strs List.
-    At each iteration, sort the current strs value. 
-    Append the str item to the sorted word index of anagram.
+    At each iteration, 1. sort the current strs value. 
+    2. Append the str item to the sorted word index of anagram.
 
     Last, use builtin .values() fn to return a list of all the values.
     '''
