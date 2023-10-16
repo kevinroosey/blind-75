@@ -2,9 +2,9 @@
 
 # Solutions
 
-| Problem                                             | Category         | Difficulty     | Solution                |
-| --------------------------------------------------- | ---------------- | -------------- | ------------------------|
-| Arrays & Hashing                                    |                  |                |                         |
+| Problem                                             | Category         | Difficulty     | Solution                 |
+| --------------------------------------------------- | ---------------- | -------------- | ------------------------ |
+| Arrays & Hashing                                    | ---------------- | -------------- | ------------------------ |
 
 | 217. Contains Duplicate                             | [Arrays & Hashing](https://github.com/kevinroosey/blind-75/tree/main/Arrays%26Hashing) | Easy           |  [Solution + Writeup](https://github.com/kevinroosey/blind-75/blob/main/Arrays%26Hashing/containsDuplicate.py)|
 | 242. Valid Anagram                                  | [Arrays & Hashing](https://github.com/kevinroosey/blind-75/tree/main/Arrays%26Hashing) | Easy           |  [Solution + Writeup](https://github.com/kevinroosey/blind-75/blob/main/Arrays%26Hashing/validAnagram.py)|
